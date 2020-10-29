@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986736734370",
+    "firebase_url": "https://roomdatabasepushnotification.firebaseio.com",
+    "project_id": "roomdatabasepushnotification",
+    "storage_bucket": "roomdatabasepushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986736734370:android:342dfb177a5a467e94a7fb",
+        "android_client_info": {
+          "package_name": "com.example.roomdatabasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986736734370-m9phkjkgu4qbrtf4qufs8dpegk6m4bua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9WfxI0C0c8n3CnilPhBf5WsHmgJB1LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986736734370-m9phkjkgu4qbrtf4qufs8dpegk6m4bua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
